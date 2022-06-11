@@ -1,0 +1,55 @@
+.fresh{
+    margin : 80px 0px;
+    
+    .button1{
+        font-family: "Lora";
+        font-size: 14px;
+        padding: 20px 35px;
+    }
+}
+@media (min-width: 992px) {
+    .intro{
+        float: right;
+        width: 75%;
+    }
+    .fresh1{
+        width: 45%;
+        position: absolute;
+        float: left;
+    }
+    .button1{
+        position: absolute;
+        bottom: -30px;
+        margin: 0 30px;
+    }
+    .visit{
+        width: 50%;
+    }
+}
+    
+
+.home{
+    background: $primary;
+    padding: 80px 0px;
+    margin: 80px 0px;
+    .promise{
+        padding: 42px;
+    }
+    .home1{
+        padding: 5px;
+    }
+}
+h2{
+    font-family: "Raleway";
+    font-size: 3em;
+    font-weight: lighter;
+}
+h6{
+    font-size: 16px;
+    font-weight: 700;
+}
+ p{
+        font: "Lora";
+        line-height: 2rem;
+        font-family: "Lora";
+    }

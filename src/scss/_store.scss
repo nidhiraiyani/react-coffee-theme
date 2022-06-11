@@ -1,0 +1,17 @@
+.store{
+    ul{
+        padding: 40px 0px;
+        li{
+            font-family: "Lora";
+        }
+    }
+}
+@media (min-width: 992px) {
+    .store{
+        ul{
+            width: 50%;
+            margin: auto;
+        }
+    }
+    
+}
